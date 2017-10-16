@@ -19,7 +19,7 @@ Le but de ce projet Github est de centraliser les discussions sur l'harmonisatio
   * French
     * [POS tags](http://universaldependencies.org/fr/pos/index.html)
     * [Features](http://universaldependencies.org/fr/feat/index.html)
-    * [Dependency Relations](http://universaldependencies.org/fr/dep/index.html),
+    * [Dependency Relations](http://universaldependencies.org/fr/dep/index.html)
 
 ## Discussions en cours à l'ouverture du projet
   * [Google doc](https://docs.google.com/document/d/1jxmhGZm5t0JB9JbTHU2WOG-xLA59Tk9LiYb1MC31pro/edit) initié par Sylvain Kahane et Kim Gerdès
