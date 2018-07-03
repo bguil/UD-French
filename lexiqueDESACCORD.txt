@@ -1,84 +1,84 @@
-aussi bien
-en raison
-ne importer quel
-bon enfant
-si possible
-en-dessous de
-en charge de
-nombre de
-à le maximum
-in vitro
-de où
-quant à
-afin de
-à partir
-as long
-de le
-le plupart
-bien entendre
-en vertu
-à ce sujet
-à le détriment de
-quitte à
-sous forme de
-tant que
-surtout que
-ne importer quoi
-en somme
-de fait
-fonction de
-le long de
-à le nombre de
-auprès de
-grâce à
-à terme
-faute de
-sous prétexte que
-en bas
-beau et bien
-de plus
-dès lors que
-sou marin = sous-marin?
-de plus en plus de
-tout le monde
-à le moyen de
-en avant
-en réalité
-à le exception de
-jusque à présent
-à tout prix
-mais alors
-à titre de
-histoire de
 à ce égard
-à peu près
-par suite
-compte rendre
-à le nom de
-de le côté de
-en vue
-après tout
-rien que
-tout comme
-en cours
-en provenance de
-en masse
-de autre part
+à ce sujet
 à le delà
-maintenant que
-jusque à
-afin que
-porte monnaie
-jusque en
-sans cesse
-à long terme
-tenir compte
+à le détriment de
+à le exception de
+à le maximum
+à le moyen de
+à le nom de
+à le nombre de
 à le plus vite
+à long terme
+à partir
+à peu près
+à terme
+à titre de
 à tort
-en présence de
+à tout prix
+afin de
+afin que
+après tout
+as long
+auprès de
+aussi bien
+beau et bien
 bel et bien
+bien entendre
+bon enfant
+compte rendre
+de autre part
+de fait
+de le
+de le côté de
+de où
+de plus
+de plus en plus de
+dès lors que
+en avant
+en bas
+en charge de
+en cours
+en masse
+en partie
+en présence de
+en provenance de
+en raison
+en réalité
+en somme
+en vertu
+en vue
 encore que
+en-dessous de
+faute de
+Fixed across all treebanks
+fonction de
+grâce à
+histoire de
+in vitro
+jusque à
+jusque à présent
+jusque en
+le long de
+le plupart
+maintenant que
+mais alors
 mener à bien
 mieux à même
-Fixed across all treebanks
-en partie
+ne importer quel
+ne importer quoi
+nombre de
+par suite
+porte monnaie
+quant à
+quitte à
+rien que
+sans cesse
+si possible
+sou marin = sous-marin?
+sous forme de
+sous prétexte que
+surtout que
+tant que
+tenir compte
+tout comme
+tout le monde
