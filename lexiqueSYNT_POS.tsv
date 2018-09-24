@@ -102,7 +102,10 @@ en bas	ADV
 en cas de	ADP
 en ce qui concerner	VERB
 en charge de	ADP
+en commmun	ADV %guy
+en continu	ADV %guy
 en cours	ADJ
+en définitif	ADV %guy
 en dépit de	ADP
 en dessous de	ADP
 en effet	ADV
@@ -110,16 +113,19 @@ en fait	ADV
 en faveur de	ADP
 en fin de compte	ADV
 en fonction de	ADP
+en général  ADV %guy
 en haut	ADV
 en le occurrence	ADV
 en matière de	ADP
 en même temps	ADV
 en mesure de	ADP
 en outre	ADV
+en parallèle	ADV %guy
 en particulier	ADV
 en partie	ADV
 en plus	ADV
 en présence de	ADP
+en privé    ADV
 en provenance de	ADP
 en qualité de	ADP
 en raison de	ADP
@@ -189,13 +195,14 @@ salle à manger	ADV
 sans cesse	ADV
 sans doute	ADV
 sans faute	ADV
+savoir faire	NOUN %guy
 si besoin	ADV
 si ce ne être	VERB
 si jamais	SCONJ
 si possible	X
 sous couvert de	ADP
-sous forme de	ADP
-sous prétexte que	SCONJ
+%sous forme de	ADP guy
+%sous prétexte que	SCONJ guy
 suite à	ADP
 sur le champ	ADV
 sur le point de	ADP

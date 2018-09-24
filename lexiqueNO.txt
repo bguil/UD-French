@@ -105,6 +105,7 @@ drôle de
 en aucun manière
 en avoir marre
 en bas de
+en bref %guy
 en cause
 en ce moment
 en ce sens
@@ -123,10 +124,13 @@ en mesure
 en mesurer
 en moyenne
 en peu de temps
+en parallèle %guy
+en particulier %guy
 en place
 en plus de
 en principe
 en priorité
+en privé %guy
 en question
 en revanche
 en trombe
