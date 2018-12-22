@@ -1,13 +1,17 @@
+aussi bien	ADV %guy
 à base de	ADP
+à bord ADV %guy
 à cause de	ADP
 à ce égard	ADV
 à ce sujet	X
 à cloche-pied	ADV
 à compter de	ADP
 à condition que	SCONJ
-à coup de	ADP
+à coup	ADV %guy
+à coup sûr  ADV %guy
 à court de	ADP
 à court terme	ADJ
+à côté	ADV %guy
 à fond	ADV
 à hauteur de	ADP
 à juste titre	ADV
@@ -15,7 +19,7 @@
 à le cœur de	ADP
 à le contraire	ADV
 à le côté de	ADP
-à le cours de	ADP
+à le cours	ADV %Guy
 à le delà	ADP
 à le demeurer	ADV
 à le dépens de	ADP
@@ -55,25 +59,30 @@
 à même	ADJ
 à merveille	ADV
 à mesure que	SCONJ
-à moins de	ADP
-à moins que	SCONJ
+à moins	 ADV %guy
+%à moins de	ADP guy
+%à moins que	SCONJ guy
 à part	CCONJ
 à partir	ADP
 à peine	ADV
 à peu près	ADV
 à présent	ADV
 à priori	ADV
+%guy à proximité	ADV % c'est une divergence par rapport à PARSEME-FR
 à savoir	X
 à terme	ADV
 à titre de	ADP
 à tort	ADV
 à tout prix	ADV
 à vrai dire	ADV
+comme si de rien ne être	VERB % guy
 compte rendu	NOUN
 contre mauvais fortune bon coeur	X
 dans le mesure où	ADV
+de ailleurs    ADV %guy
 de avance	ADV
 de avis	ADV
+de bon ton	ADJ %guy
 de façon à ce que	SCONJ
 de ici	ADV
 de le côté de	ADP
@@ -81,9 +90,12 @@ de le même coup	X
 de le moins	ADV
 de le part de	ADP
 de le reste	X
+de le tout	ADV %guy
+de le tout à le tout	ADV %guy
 de manière à	ADP
 de peu	ADV
-de plus en plus de	ADP
+%guy de plus en plus de	ADP
+de plus	ADV %guy
 de plus en plus	ADV
 de sitôt	ADV
 de surcroît	ADV
@@ -95,6 +107,7 @@ de tout part	ADV
 de un côté	X
 de un part	ADV
 depuis que	SCONJ
+dès lors	ADV %guy
 dès que	SCONJ
 en - dessous de	ADP
 en avant	ADV
@@ -109,6 +122,7 @@ en définitif	ADV %guy
 en dépit de	ADP
 en dessous de	ADP
 en effet	ADV
+en face		ADV %guy
 en fait	ADV
 en faveur de	ADP
 en fin de compte	ADV
@@ -118,17 +132,17 @@ en haut	ADV
 en le occurrence	ADV
 en matière de	ADP
 en même temps	ADV
-en mesure de	ADP
+en mesure	ADJ %guy
 en outre	ADV
-en parallèle	ADV %guy
-en particulier	ADV
+%guy en particulier	ADV
 en partie	ADV
+en plein	ADV %guy
 en plus	ADV
 en présence de	ADP
-en privé    ADV
+%guy en privé    ADV
 en provenance de	ADP
-en qualité de	ADP
-en raison de	ADP
+en qualité	ADV %guy
+en raison	ADV %guy
 en raison	X
 en réalité	ADV
 en référence à	ADP
@@ -136,18 +150,18 @@ en somme	ADV
 en terme de	ADP
 en tout cas	ADV
 en tout	ADV
-en train de	ADP
+en train	ADP %guy
 en vain	ADV
 en vertu de	ADP
-en vertu	X
-en vue de	ADP
+en vertu	ADV %guy
+en vue		ADV %guy suivi de "de"
 en vue	ADJ
 encore que	SCONJ
 en-dessous de	ADP
 entre autre	ADV
 entre deux	NOUN
 entre temps	ADV
-être donner	VERB
+être donner	ADP %guy
 face à face	ADV
 face à	ADP
 faute de	ADP
@@ -174,6 +188,7 @@ par ailleurs	ADV
 par conséquent	ADV
 par contre	ADV
 par dessus tout	ADV
+par exemple	ADV %guy
 par le biais de	ADP
 par le suite	X
 par rapport à	ADP
@@ -203,7 +218,7 @@ si possible	X
 sous couvert de	ADP
 %sous forme de	ADP guy
 %sous prétexte que	SCONJ guy
-suite à	ADP
+%suite à	ADP guy
 sur le champ	ADV
 sur le point de	ADP
 sur place	ADV
@@ -214,7 +229,7 @@ tête à tête	NOUN
 tout comme	X
 tout de abord	ADV
 tout de le long	ADV
-tout de même	ADV
+%tout de même	ADV guy
 tout de suite	ADV
 y comprendre	VERB
 y compris	ADV

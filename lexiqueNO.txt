@@ -114,6 +114,7 @@ en commun
 en cours de
 en de
 en de de
+en deça %guy
 en deçà de
 en dehors de
 en face de
@@ -181,7 +182,7 @@ non moins que
 outre un
 par essence
 par ex.
-par exemple
+%par exemple guy
 parmi de
 pas de
 pas encore
@@ -195,6 +196,7 @@ pas un
 peu après
 peu de
 peu un
+peut-être que %guy
 plein de
 plus à
 plus de

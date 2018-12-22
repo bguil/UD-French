@@ -2,32 +2,33 @@ a contrario	ADV
 a fortiori	ADV
 a minima	ADV
 a priori	ADV
-à tout le moins	ADV
 ah bon	INTJ
 ainsi de suite	ADV
 ainsi que	CCONJ
 alors que	SCONJ
 aujourd' hui	ADV
+à le lieu	ADV %guy
+à tout le moins	ADV
 bien que	SCONJ
 bien sur	ADV
 bien sûr	ADV
 ce être - à - dire	CCONJ
 de abord	ADV
 de accord	ADV
-de ailleurs	ADV
+%guy de ailleurs	ADV
 de après	ADP
-de autant plus que	SCONJ
+%de autant plus que	SCONJ guy
 de autant plus	ADV
 de autant que	SCONJ
 de emblée	ADV
 de facto	ADV
-de même que	SCONJ
+%de même que	SCONJ guy
 de même	ADV
 de nouveau	ADV
 de ores et déjà	ADV
 de par	ADP
 de sorte que	SCONJ
-dès lors que	SCONJ
+%dès lors que	SCONJ guy
 dès lors	ADV
 en tant que	ADP
 et puis	CCONJ
@@ -41,13 +42,17 @@ low cost	ADJ
 ou bien	CCONJ
 parce que	SCONJ
 petit à petit	ADV %guy
+pour de bon	ADV %guy
 quand bien même	SCONJ
 quand même	ADV
+quant à		ADP %guy
 quitte à	ADP %guy
 si bien que	SCONJ
 statu quo	NOUN
+suite à		ADP %guy
 tandis que	SCONJ
 tout à fait	ADV
 tout à le heure	ADV
+tout de même	ADV %guy
 un petit peu	ADV %guy
 un peu	ADV %guy
