@@ -1,26 +1,30 @@
 aussi bien	ADV %guy
-à base de	ADP
+%à base de	ADP guy
+à bien ADV %guy
 à bord ADV %guy
-à cause de	ADP
+%à cause de	ADP guy
+à cause	 ADV %guy
+à ce effet	ADV %guy
 à ce égard	ADV
 à ce sujet	X
 à cloche-pied	ADV
-à compter de	ADP
-à condition que	SCONJ
+à compter	ADV %guy
+%à condition que	SCONJ guy
 à coup	ADV %guy
 à coup sûr  ADV %guy
 à court de	ADP
 à court terme	ADJ
 à côté	ADV %guy
 à fond	ADV
-à hauteur de	ADP
+%à hauteur de	ADP guy
+à hauteur  ADV %guy
 à juste titre	ADV
 à le bas mot	ADV
 à le cœur de	ADP
 à le contraire	ADV
 à le côté de	ADP
-à le cours	ADV %Guy
-à le delà	ADP
+à le cours	ADV %guy
+à le delà	ADV %guy
 à le demeurer	ADV
 à le dépens de	ADP
 à le détriment de	ADP
@@ -29,14 +33,15 @@ aussi bien	ADV %guy
 à le faveur de	ADP
 à le final	ADV
 à le fois	ADV
-à le fond	ADV
+%à le fond	ADV guy
 à le fur et à mesure de	ADP
 à le instar de	ADP
 à le issue de	ADP
-à le jour le jour	ADV
+%à le jour le jour	ADV guy
 à le juste	ADV
 à le lettre	ADV
-à le maximum	ADV
+à le lieu	ADV %guy
+%à le maximum	ADV guy % divergence avec PARSEME.FR, le critère DET ne fonctionne pas : "à un grand maximum"
 à le mode	ADP
 à le moins	ADV
 à le motif que	SCONJ
@@ -48,7 +53,7 @@ aussi bien	ADV %guy
 à le passage	ADV
 à le pied de	ADP
 à le plus vite	ADV
-à le revoir	INTJ
+à le revoir	NOUN %guy
 à le sortir de	ADP
 à le suite de	ADP
 à le sujet de	ADP
@@ -56,43 +61,61 @@ aussi bien	ADV %guy
 à le total	ADV
 à le voir de	ADP
 à long terme	ADV
-à même	ADJ
+%à même	ADJ guy
 à merveille	ADV
 à mesure que	SCONJ
 à moins	 ADV %guy
 %à moins de	ADP guy
 %à moins que	SCONJ guy
-à part	CCONJ
+à nouveau	ADV %guy
+à part	ADP %guy
 à partir	ADP
 à peine	ADV
 à peu près	ADV
 à présent	ADV
 à priori	ADV
+à proprement parler	ADV %guy
+à propos     ADV %guy
+à raison     ADV %guy
 %guy à proximité	ADV % c'est une divergence par rapport à PARSEME-FR
-à savoir	X
+à savoir	ADV %guy
 à terme	ADV
-à titre de	ADP
+%à titre de	ADP guy
+à titre	 ADV %guy
 à tort	ADV
+à tout casser	ADV %guy
 à tout prix	ADV
 à vrai dire	ADV
+bel et bien	ADV %guy
+bien entendre	ADV %guy
+bien  sûr	ADV %guy
+ce être pourquoi    ADV %guy
 comme si de rien ne être	VERB % guy
 compte rendu	NOUN
+compte tenir	ADV
 contre mauvais fortune bon coeur	X
 dans le mesure où	ADV
 de ailleurs    ADV %guy
+de abord       ADV %guy
 de avance	ADV
 de avis	ADV
 de bon ton	ADJ %guy
+de ce fait	ADV %guy
 de façon à ce que	SCONJ
+de habitude   ADV %guy
 de ici	ADV
+de ici	ADP %guy
 de le côté de	ADP
+de le fait ADV %guy
 de le même coup	X
 de le moins	ADV
 de le part de	ADP
-de le reste	X
+de le reste	ADV %guy
 de le tout	ADV %guy
 de le tout à le tout	ADV %guy
 de manière à	ADP
+de nouveau ADV %guy
+de part et de autre	ADV %guy
 de peu	ADV
 %guy de plus en plus de	ADP
 de plus	ADV %guy
@@ -111,12 +134,13 @@ dès lors	ADV %guy
 dès que	SCONJ
 en - dessous de	ADP
 en avant	ADV
-en bas	ADV
+en bas	ADV % divergence par rapport à PARSEME.FR
+en bref	ADV %guy % discutable car en + adj est très productif
 en cas de	ADP
 en ce qui concerner	VERB
 en charge de	ADP
-en commmun	ADV %guy
-en continu	ADV %guy
+en commmun	ADV %guy % discutable car en + adj est très productif
+en continu	ADV %guy % discutable car en + adj est très productif
 en cours	ADJ
 en définitif	ADV %guy
 en dépit de	ADP
@@ -127,27 +151,29 @@ en fait	ADV
 en faveur de	ADP
 en fin de compte	ADV
 en fonction de	ADP
-en général  ADV %guy
-en haut	ADV
+en général  ADV %guy % discutable car en + adj est très productif
+en haut	ADV %divergence par rapport à PARSEME.FR
 en le occurrence	ADV
 en matière de	ADP
 en même temps	ADV
 en mesure	ADJ %guy
 en outre	ADV
-%guy en particulier	ADV
+en parallèle	ADV %guy % discutable car en + adj est très productif
+en particulier	ADV % discutable car en + adj est très productif
 en partie	ADV
-en plein	ADV %guy
+en plein	ADV %guy % suivi d'un groupe prépositionnel
 en plus	ADV
 en présence de	ADP
-%guy en privé    ADV
+en privé    ADV
 en provenance de	ADP
 en qualité	ADV %guy
 en raison	ADV %guy
-en raison	X
+%en raison	X guy
 en réalité	ADV
 en référence à	ADP
 en somme	ADV
 en terme de	ADP
+en tête	 ADV %guy
 en tout cas	ADV
 en tout	ADV
 en train	ADP %guy
@@ -170,29 +196,36 @@ garde à vue	NOUN
 grand mère	NOUN
 haut de gamme	ADJ
 histoire de	ADP
-hors de	ADP
+%hors de	ADP guy
+hors pair	ADJ %guy
 il être vrai	VERB
-il y avoir	X
+il y avoir	ADP %guy
 in vitro	ADV
-jusque en	ADP
-lors de	ADP
+%jusque en	ADP guy
+le long		ADV %guy
+le plupart	NOUN %guy
+%lors de	ADP guy
 main dans le main	ADV
 main fort	NOUN
 maintenant que	SCONJ
 mener à bien	VERB
+ne payer pas de mine	VERB %guy
 nombre de	ADP
 non plus	ADV
 non seulement	X
-on ne pouvoir plus	VERB
+nul part	ADV %guy
+on ne pouvoir plus	ADV %guy
 par ailleurs	ADV
 par conséquent	ADV
 par contre	ADV
-par dessus tout	ADV
+%par dessus tout	ADV guy
+par dessus  ADP %guy
 par exemple	ADV %guy
 par le biais de	ADP
 par le suite	X
 par rapport à	ADP
-par suite	X
+par suite	ADV %guy
+pas mal		ADV %guy
 pendant que	SCONJ
 petit à petit	ADV
 petit déjeuner	NOUN
@@ -200,7 +233,8 @@ peu à peu	ADV
 peut-être que	SCONJ
 plus ou moins	ADV
 pour autant	ADV
-pour ce faire	X
+pour ce faire	ADV %guy
+pour le heure	ADV %guy
 pour un peu	ADV
 quelque chose	PRON
 quelque un	PRON
@@ -226,10 +260,13 @@ tant que	SCONJ
 tel quel	ADJ
 tenir compte	VERB
 tête à tête	NOUN
-tout comme	X
+tour à tour	ADV %guy
+%tout comme	X guy
 tout de abord	ADV
 tout de le long	ADV
 %tout de même	ADV guy
 tout de suite	ADV
-y comprendre	VERB
-y compris	ADV
+un petit peu	ADV %guy
+un peu	ADV %guy
+y comprendre	ADP %guy
+%y compris	ADV guy

@@ -7,13 +7,17 @@ ainsi de suite	ADV
 ainsi que	CCONJ
 alors que	SCONJ
 aujourd' hui	ADV
-à le lieu	ADV %guy
+à le jour le jour	ADV %guy
+à même	  ADP %guy
+à même	  ADJ %guy
 à tout le moins	ADV
+à travers ADP %guy
+à travers ADV %guy
 bien que	SCONJ
-bien sur	ADV
-bien sûr	ADV
+%bien sur	ADV guy
+%bien sûr	ADV guy
 ce être - à - dire	CCONJ
-de abord	ADV
+%de abord	ADV guy
 de accord	ADV
 %guy de ailleurs	ADV
 de après	ADP
@@ -24,21 +28,26 @@ de emblée	ADV
 de facto	ADV
 %de même que	SCONJ guy
 de même	ADV
-de nouveau	ADV
+%de nouveau	ADV guy
 de ores et déjà	ADV
 de par	ADP
 de sorte que	SCONJ
 %dès lors que	SCONJ guy
 dès lors	ADV
+eh bien		INTJ %guy
 en tant que	ADP
 et puis	CCONJ
 ex officio	ADV
 globe trotter	NOUN
+grâce à		ADP %guy
 grosso modo	ADV
 horresco referens	ADV
-hors pair	ADJ
+%hors pair	ADJ guy
 in extremis	ADV
 low cost	ADJ
+ne importe quel	DET %guy
+ne importe qui	PRON %guy
+ne importe quoi	PRON %guy
 ou bien	CCONJ
 parce que	SCONJ
 petit à petit	ADV %guy
@@ -47,10 +56,12 @@ quand bien même	SCONJ
 quand même	ADV
 quant à		ADP %guy
 quitte à	ADP %guy
+rien que	ADV %guy
 si bien que	SCONJ
 statu quo	NOUN
 suite à		ADP %guy
 tandis que	SCONJ
+tel quel	ADJ %guy
 tout à fait	ADV
 tout à le heure	ADV
 tout de même	ADV %guy

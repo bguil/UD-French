@@ -2,7 +2,7 @@
 1 / 10 000
 à bien
 à bord de
-à ce effet
+%à ce effet guy
 à ce jour
 à ce point
 à ce que
@@ -17,6 +17,7 @@
 à le delà de
 à le dessus de
 à le étranger
+à le fond %guy
 à le large de
 à le lieu de
 à le milieu de
@@ -39,6 +40,7 @@
 à revers
 à tout force
 à tout moment
+à tout prix %guy
 à tout vitesse
 à travers
 après que
@@ -65,7 +67,7 @@ avoir lieu
 beaucoup de
 beaucoup un
 bien de
-ce être pourquoi
+%ce être pourquoi guy
 ce que
 ce qui
 cela dire
@@ -85,7 +87,7 @@ dans le cas où
 dans son ensemble
 davantage de
 davantage un
-de ce fait
+%de ce fait guy
 de entre
 de entres
 de jour en jour
@@ -93,7 +95,7 @@ de le autre
 de le fait de
 de le haut de
 de le point de
-de le tout
+%de le tout guy
 de loin
 de mine
 de part et de autre de
@@ -165,7 +167,8 @@ le il
 le plupart de
 le plus
 loin de
-lors du
+%lors du guy
+lors de %guy % divergence par rapport à PARSEME.FR
 mais aussi
 mais également
 même se
@@ -187,7 +190,7 @@ parmi de
 pas de
 pas encore
 pas grand chose
-pas mal
+%pas mal guy
 pas mal de
 pas moins
 pas moins de
@@ -207,7 +210,7 @@ plutôt que
 plutôt que de
 pour cause de
 pour le compte un
-pour le heure
+%pour le heure guy
 pour le instant
 pour le moment
 pour le premier fois
@@ -247,7 +250,7 @@ un fois
 un fois de plus
 un fois que
 un grand nombre de
-un peu
+%un peu guy
 un peu de
 un peu plus
 un sorte de
