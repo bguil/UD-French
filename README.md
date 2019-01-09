@@ -4,7 +4,7 @@ Le but de ce projet Github est de centraliser les discussions sur l'harmonisatio
 
 ## Les treebanks UD du Français
 
-  * `French`: : [page Github](https://github.com/UniversalDependencies/UD_French)
+  * `French`: [page Github](https://github.com/UniversalDependencies/UD_French)
   * `French-FTB` : [page Github](https://github.com/UniversalDependencies/UD_French-FTB)
   * `French-PUD` : [page Github](https://github.com/UniversalDependencies/UD_French-PUD)
   * `French-ParTUT` : [page Github](https://github.com/UniversalDependencies/UD_French-ParTUT)
