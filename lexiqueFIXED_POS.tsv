@@ -10,6 +10,14 @@ ainsi que	SCONJ
 alors que	SCONJ %guy
 aujourd' hui	ADV
 à le jour le jour	ADV %guy
+à le mieux   ADV %guy
+à le moins   ADV %guy
+à le plus    ADV %guy
+à le plus fort	 ADV %guy
+à le plus haut	 ADV %guy
+à le plus près    ADV %guy
+à le plus proche    ADV %guy
+à le plus tard    ADV %guy
 à même	  ADP %guy
 à même	  ADJ %guy
 à tout le moins	ADV
@@ -28,6 +36,7 @@ de autant plus	ADV
 de autant que	SCONJ
 de emblée	ADV
 de facto	ADV
+de le moins	ADV %guy
 %de même que	SCONJ guy
 de même	ADV
 %de nouveau	ADV guy
@@ -46,6 +55,7 @@ grosso modo	ADV
 horresco referens	ADV
 %hors pair	ADJ guy
 in extremis	ADV
+le plus		ADV %guy
 low cost	ADJ
 ne importe quel	DET %guy
 ne importe qui	PRON %guy
@@ -54,9 +64,11 @@ ou bien	CCONJ
 parce que	SCONJ
 petit à petit	ADV %guy
 pour de bon	ADV %guy
+pour le moins	ADV %guy
 quand bien même	SCONJ
 quand même	ADV
 quant à		ADP %guy
+quelque peu	ADV %guy
 quitte à	ADP %guy
 rien que	ADV %guy
 si bien que	SCONJ
@@ -67,6 +79,7 @@ tel quel	ADJ %guy
 tout en  % IRREG PARSEME
 tout à fait	ADV
 tout à le heure	ADV
+tout à le mieux	ADV %guy
 tout de même	ADV %guy
 un petit peu	ADV %guy
 un peu	ADV %guy

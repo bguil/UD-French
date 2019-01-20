@@ -10,6 +10,7 @@ aussi bien	ADV %guy
 à cloche-pied	ADV
 à compter	ADV %guy
 %à condition que	SCONJ guy
+à condition  ADV %guy
 à coup	ADV %guy
 à coup sûr  ADV %guy
 à court de	ADP
@@ -43,7 +44,7 @@ aussi bien	ADV %guy
 à le lieu	ADV %guy
 %à le maximum	ADV guy % divergence avec PARSEME.FR, le critère DET ne fonctionne pas : "à un grand maximum"
 à le mode	ADP
-à le moins	ADV
+%à le moins	ADV guy
 à le motif que	SCONJ
 à le moyen de	ADP
 à le niveau de	ADP
@@ -95,6 +96,7 @@ compte rendu	NOUN
 compte tenir	ADV
 contre mauvais fortune bon coeur	X
 dans le mesure où	ADV
+de affiler     ADV %guy
 de ailleurs    ADV %guy
 de abord       ADV %guy
 de avance	ADV
@@ -108,12 +110,13 @@ de ici	ADP %guy
 de le côté de	ADP
 de le fait ADV %guy
 de le même coup	X
-de le moins	ADV
+%de le moins	ADV guy
 de le part de	ADP
 de le reste	ADV %guy
 de le tout	ADV %guy
 de le tout à le tout	ADV %guy
 de manière à	ADP
+de où	   ADP %guy
 de nouveau ADV %guy
 de part et de autre	ADV %guy
 de peu	ADV
@@ -172,6 +175,7 @@ en raison	ADV %guy
 en réalité	ADV
 en référence à	ADP
 en somme	ADV
+en sorte	ADV %guy
 en terme de	ADP
 en tête	 ADV %guy
 en tout cas	ADV
@@ -190,6 +194,7 @@ entre temps	ADV
 être donner	ADP %guy
 face à face	ADV
 face à	ADP
+fait divers	NOUN %guy
 faute de	ADP
 fonction de	ADP
 garde à vue	NOUN

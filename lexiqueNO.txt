@@ -38,6 +38,7 @@
 à proximité
 à proximité de
 à revers
+à tel point %guy
 à tout force
 à tout moment
 à tout prix %guy
@@ -165,7 +166,7 @@ jusque à ce que
 jusque à quand
 le il
 le plupart de
-le plus
+%le plus guy
 loin de
 %lors du guy
 lors de %guy % divergence par rapport à PARSEME.FR
@@ -234,8 +235,8 @@ supérieur à
 tant de
 tel que
 tout à le long de
-tout à le mieux
-tout à le plus
+%tout à le mieux guy
+%tout à le plus guy
 tout autant que
 tout casser
 tout juste
