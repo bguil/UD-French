@@ -138,7 +138,7 @@ en privé %guy
 en question
 en revanche
 en trombe
-en vigueur
+% en vigueur guy
 en vrai
 et / ou
 et bien

@@ -20,6 +20,8 @@ aujourd' hui	ADV
 à le plus tard    ADV %guy
 à même	  ADP %guy
 à même	  ADJ %guy
+à moins	  ADV %guy
+à quoi bon    ADV %guy
 à tout le moins	ADV
 à travers ADP %guy
 à travers ADV %guy
@@ -54,7 +56,7 @@ grâce à		ADP %guy
 grosso modo	ADV
 horresco referens	ADV
 %hors pair	ADJ guy
-in extremis	ADV
+%in extremis	ADV guy
 le plus		ADV %guy
 low cost	ADJ
 ne importe quel	DET %guy

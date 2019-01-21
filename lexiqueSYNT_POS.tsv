@@ -65,7 +65,6 @@ aussi bien	ADV %guy
 %à même	ADJ guy
 à merveille	ADV
 à mesure que	SCONJ
-à moins	 ADV %guy
 %à moins de	ADP guy
 %à moins que	SCONJ guy
 à nouveau	ADV %guy
@@ -78,7 +77,7 @@ aussi bien	ADV %guy
 à proprement parler	ADV %guy
 à propos     ADV %guy
 à raison     ADV %guy
-%guy à proximité	ADV % c'est une divergence par rapport à PARSEME-FR
+%à proximité	ADV guy % c'est une divergence par rapport à PARSEME-FR
 à savoir	ADV %guy
 à terme	ADV
 %à titre de	ADP guy
@@ -177,13 +176,14 @@ en référence à	ADP
 en somme	ADV
 en sorte	ADV %guy
 en terme de	ADP
-en tête	 ADV %guy
+en tête	 ADV %guy %divergence par rapport à PARSEME.FR
 en tout cas	ADV
 en tout	ADV
 en train	ADP %guy
 en vain	ADV
 en vertu de	ADP
 en vertu	ADV %guy
+en vigueur	ADV %guy
 en vue		ADV %guy suivi de "de"
 en vue	ADJ
 encore que	SCONJ
@@ -205,7 +205,9 @@ histoire de	ADP
 hors pair	ADJ %guy
 il être vrai	VERB
 il y avoir	ADP %guy
+in extremis	ADV %guy
 in vitro	ADV
+in vivo		ADV %guy
 %jusque en	ADP guy
 le long		ADV %guy
 le plupart	NOUN %guy
