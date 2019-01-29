@@ -37,7 +37,9 @@ de après	ADP
 de autant plus	ADV
 de autant que	SCONJ
 de emblée	ADV
+de entre	ADP %guy
 de facto	ADV
+de le		DET %guy
 de le moins	ADV %guy
 %de même que	SCONJ guy
 de même	ADV
@@ -49,6 +51,7 @@ de sorte que	SCONJ
 dès lors	ADV
 eh bien		INTJ %guy
 en tant que	ADP
+en tant que tel	ADV %guy
 et puis	CCONJ
 ex officio	ADV
 globe trotter	NOUN
@@ -57,14 +60,17 @@ grosso modo	ADV
 horresco referens	ADV
 %hors pair	ADJ guy
 %in extremis	ADV guy
+le entre deux guerres	PROPN %guy
 le plus		ADV %guy
 low cost	ADJ
 ne importe quel	DET %guy
 ne importe qui	PRON %guy
 ne importe quoi	PRON %guy
+non plus   ADV %guy
 ou bien	CCONJ
 parce que	SCONJ
 petit à petit	ADV %guy
+plus que	ADV %guy %Ex: c'est plus que moyen
 pour de bon	ADV %guy
 pour le moins	ADV %guy
 quand bien même	SCONJ
@@ -83,5 +89,6 @@ tout à fait	ADV
 tout à le heure	ADV
 tout à le mieux	ADV %guy
 tout de même	ADV %guy
+tout en	ADP %guy
 un petit peu	ADV %guy
 un peu	ADV %guy

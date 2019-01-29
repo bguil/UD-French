@@ -1,3 +1,5 @@
+alter ego	NOUN %guy
+avoir du mal	VERB %guy
 aussi bien	ADV %guy
 %à base de	ADP guy
 à bien ADV %guy
@@ -43,7 +45,7 @@ aussi bien	ADV %guy
 à le lettre	ADV
 à le lieu	ADV %guy
 %à le maximum	ADV guy % divergence avec PARSEME.FR, le critère DET ne fonctionne pas : "à un grand maximum"
-à le mode	ADP
+à le mode	ADJ %guy
 %à le moins	ADV guy
 à le motif que	SCONJ
 à le moyen de	ADP
@@ -89,17 +91,20 @@ aussi bien	ADV %guy
 bel et bien	ADV %guy
 bien entendre	ADV %guy
 bien  sûr	ADV %guy
+bon enfant	ADJ %guy
 ce être pourquoi    ADV %guy
 comme si de rien ne être	VERB % guy
 compte rendu	NOUN
 compte tenir	ADV
 contre mauvais fortune bon coeur	X
+cum laude      ADV %guy
 dans le mesure où	ADV
 de affiler     ADV %guy
 de ailleurs    ADV %guy
 de abord       ADV %guy
 de avance	ADV
 de avis	ADV
+de bon augure	ADJ %guy
 de bon ton	ADJ %guy
 de ce fait	ADV %guy
 de façon à ce que	SCONJ
@@ -114,7 +119,9 @@ de le part de	ADP
 de le reste	ADV %guy
 de le tout	ADV %guy
 de le tout à le tout	ADV %guy
+de loin en loin	ADV %guy
 de manière à	ADP
+de moins en moins	ADV %guy
 de où	   ADP %guy
 de nouveau ADV %guy
 de part et de autre	ADV %guy
@@ -136,6 +143,7 @@ dès lors	ADV %guy
 dès que	SCONJ
 en - dessous de	ADP
 en avant	ADV
+en avoir assez	VERB %guy
 en bas	ADV % divergence par rapport à PARSEME.FR
 en bref	ADV %guy % discutable car en + adj est très productif
 en cas de	ADP
@@ -195,6 +203,7 @@ entre temps	ADV
 face à face	ADV
 face à	ADP
 fait divers	NOUN %guy
+fait maison	ADJ %guy
 faute de	ADP
 fonction de	ADP
 garde à vue	NOUN
@@ -203,7 +212,8 @@ haut de gamme	ADJ
 histoire de	ADP
 %hors de	ADP guy
 hors pair	ADJ %guy
-il être vrai	VERB
+il ne en être rien  VERB %guy
+%il être vrai	VERB guy
 il y avoir	ADP %guy
 in extremis	ADV %guy
 in vitro	ADV
@@ -211,7 +221,9 @@ in vivo		ADV %guy
 %jusque en	ADP guy
 le long		ADV %guy
 le plupart	NOUN %guy
+le tout pour le tout NOUN %guy
 %lors de	ADP guy
+low cost	ADJ %guy
 main dans le main	ADV
 main fort	NOUN
 maintenant que	SCONJ
@@ -220,7 +232,7 @@ mettre à part	ADP %guy
 ne payer pas de mine	VERB %guy
 nombre de	ADP
 non plus	ADV
-non seulement	X
+non seulement	ADV %guy
 nul part	ADV %guy
 on ne pouvoir plus	ADV %guy
 par ailleurs	ADV
@@ -252,9 +264,10 @@ salle à manger	ADV
 sans cesse	ADV
 sans doute	ADV
 sans faute	ADV
+sauver qui pouvoir	NOUN %guy
 savoir faire	NOUN %guy
 si besoin	ADV
-si ce ne être	VERB
+si ce ne être	ADP %guy
 si jamais	SCONJ
 si possible	X
 sous couvert de	ADP
@@ -274,6 +287,7 @@ tout de abord	ADV
 tout de le long	ADV
 %tout de même	ADV guy
 tout de suite	ADV
+un fois	ADP %guy
 un petit peu	ADV %guy
 un peu	ADV %guy
 y comprendre	ADP %guy
