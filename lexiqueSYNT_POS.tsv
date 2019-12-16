@@ -25,7 +25,8 @@ aussi bien	ADV %guy
 à le bas mot	ADV
 à le cœur de	ADP
 à le contraire	ADV
-à le côté de	ADP
+à le côté	ADV %guy
+%à le côté de	ADP guy
 à le cours	ADV %guy
 à le delà	ADV %guy
 à le demeurer	ADV
@@ -48,21 +49,21 @@ aussi bien	ADV %guy
 à le mode	ADJ %guy
 %à le moins	ADV guy
 à le motif que	SCONJ
-à le moyen de	ADP
+à le moyen de	ADV %guy
 à le niveau de	ADP
 à le nom de	ADP
 à le nombre de	ADP
 à le occasion de	ADP
 à le passage	ADV
 à le pied de	ADP
-à le plus vite	ADV
 à le revoir	NOUN %guy
 à le sortir de	ADP
 à le suite de	ADP
 à le sujet de	ADP
 à le titre de	ADP
 à le total	ADV
-à le voir de	ADP
+à le vu	ADV %guy
+%à le voir de	ADP guy
 à long terme	ADV
 %à même	ADJ guy
 à merveille	ADV
@@ -215,9 +216,9 @@ hors pair	ADJ %guy
 il ne en être rien  VERB %guy
 %il être vrai	VERB guy
 il y avoir	ADP %guy
+il y avoir de cela  ADP %guy
 in extremis	ADV %guy
-in vitro	ADV
-in vivo		ADV %guy
+%in vitro	ADV guy
 %jusque en	ADP guy
 le long		ADV %guy
 le plupart	NOUN %guy
@@ -242,7 +243,7 @@ par contre	ADV
 par dessus  ADP %guy
 par exemple	ADV %guy
 par le biais de	ADP
-par le suite	X
+par le suite	ADV %guy
 par rapport à	ADP
 par suite	ADV %guy
 pas mal		ADV %guy
@@ -287,8 +288,9 @@ tout de abord	ADV
 tout de le long	ADV
 %tout de même	ADV guy
 tout de suite	ADV
-un fois	ADP %guy
+un fois	ADV %guy
 un petit peu	ADV %guy
 un peu	ADV %guy
+un peu	PRON %guy
 y comprendre	ADP %guy
 %y compris	ADV guy
